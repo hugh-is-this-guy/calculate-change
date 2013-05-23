@@ -1,0 +1,5 @@
+Small programming challenge a friend gave me.
+
+Pass the function am amount, and a list of numbers, and it will print out all the ways of combining those numbers to make the total.
+
+The original challenge was to use lists instead of strings, which I will (hopefully) implement soon!
